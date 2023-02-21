@@ -17,7 +17,7 @@
 
 <br><br><br>
 
-- Frontend developer graduate
+- Frontend developer
 - Web development experience in a large corporation and in a small agency
 - Besides working with development, I also work with creating web designs
 - Currently learning Java and C#
