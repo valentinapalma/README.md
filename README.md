@@ -11,9 +11,9 @@
 
 
 	
-## About me <picture><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjc1MTNlZTgyOGE2NjBmZDg0MmZhYzA4YTZhOTUzZjAyMWI0NjhmNSZjdD1z/WAyw8s7sq1v6U/giphy.gif" width="70"></picture>
+## About me <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjc1MTNlZTgyOGE2NjBmZDg0MmZhYzA4YTZhOTUzZjAyMWI0NjhmNSZjdD1z/WAyw8s7sq1v6U/giphy.gif" width="70">
 
-<picture> <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDIzMDdkMWRmYTI3MDlhMDBhZWZjNGVkMTZkZTVlYzBmMTVmZWJmMSZjdD1z/Ut7zeRXCmxc0td7N68/giphy.gif" width="320"></picture>
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDIzMDdkMWRmYTI3MDlhMDBhZWZjNGVkMTZkZTVlYzBmMTVmZWJmMSZjdD1z/Ut7zeRXCmxc0td7N68/giphy.gif" width="320">
 
 <br><br><br>
 
