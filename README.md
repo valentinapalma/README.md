@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Valentina Palma</b><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWM5NDM5OGNjZjUwMTcyMTQ2ZGU1ZGJhNTZjMjA2OGNkMWU4NmQxZiZjdD1z/3o7btOMPmK0iwc7H9u/giphy.gif" width="80" style="position:relative;top:12px;"></h1>
+<h1 align="center"><b>Valentina Palma</b></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=48D1CC&size=25&center=true&vCenter=true&width=600&height=50&lines=Web+Developer;Love+to+learn+new+things+💚"></a>
