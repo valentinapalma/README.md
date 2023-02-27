@@ -21,7 +21,7 @@
 - Web development experience in a large corporation and in a small agency
 - Besides working with development, I also work with creating web designs
 - Currently learning Java and C#
-- My [website](https://valentinapalma.se) is under construction
+- Have a look at my very simple [website](https://valentinapalma.se)
 - Love playing video games, listen to music and watch movies/TV shows
 
 <br><br><br><br>
