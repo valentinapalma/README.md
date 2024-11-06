@@ -1,4 +1,4 @@
-
+<!-- 
 <h1 align="center"><b>Valentina Palma</b></h1>
 
 <p align="center">
@@ -77,3 +77,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentinapalma&layout=compact&title_color=ffffff&icon_color=ffffff&text_color=D3D3D3&bg_color=0,000000,130F40)
 
 
+-->
